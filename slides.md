@@ -29,7 +29,7 @@ transition: slide-up
 
 ---
 layout: image-right
-image: '/mitose_schema.jpg'
+image: https://app.lesbonsprofs.com/uploadImages/users/SVT_la-mitose-site.png
 transition: slide-up
 ---
 
