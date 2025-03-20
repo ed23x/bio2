@@ -55,4 +55,22 @@ Chromosomen haben eine charakteristische Struktur mit einem kurzen (p-Arm) und e
 
 # Regionale Entwicklung und Zellkerne
 
-Regionale Entwicklung beschreibt den Prozess der Spe
+Regionale Entwicklung beschreibt den Prozess der Spezialisierung von Zellen während der Entwicklung eines Organismus.  
+
+Ein klassisches Beispiel, das die Bedeutung der Erbinformation für die Entwicklung verdeutlicht, ist der Kerntransfer bei Krallenfröschen:  
+Hier wird der Zellkern einer Körperzelle in eine entkernte Eizelle übertragen. Die resultierende Zelle kann sich zu einem vollständigen Organismus entwickeln.  
+
+Dieses Experiment zeigt, dass die gesamte Erbinformation im Zellkern enthalten ist und die Entwicklung steuert – ein Prinzip mit großer Bedeutung für Biotechnologie und Klonierung.
+
+---
+
+# Zusammenfassung
+
+Zusammenfassend lässt sich sagen:  
+
+- **Zellteilung**: Die Mitose sichert die korrekte Weitergabe der Erbinformation bei der Zellteilung.  
+- **Chromosomen**: Karyogramme ermöglichen die Visualisierung und Analyse von Chromosomen.  
+- **Regionale Entwicklung**: Zellen spezialisieren sich während der Entwicklung eines Organismus und übernehmen spezifische Funktionen.  
+
+Diese Prozesse sind essenziell für Wachstum, Vererbung und biotechnologische Anwendungen.
+
