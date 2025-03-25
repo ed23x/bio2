@@ -140,8 +140,7 @@ Amöben vermehren sich ungeschlechtlich: Sobald sie eine bestimmte Größe errei
 -->
 
 ---
-layout: image-right
-image: public/frosch.jpg
+layout: two-cols
 transition: slide-up
 ---
 
@@ -152,6 +151,10 @@ transition: slide-up
 * Krallenfrosch-Experiment:
   - Kernübertragung
   - Entwicklung von Albino-Fröschen
+
+::right::
+
+<img src="https://images.gutefrage.net/media/fragen/bilder/kerntransfer-bei-krallenfroeschen/0_big.webp?v=1612188231000" alt="Ablauf der Mitose" style="max-width: 100%; height: auto;">
 
 <!--
 Versuche mit der Schirmalge zeigten, dass nur der Teil mit dem Zellkern (Rhizoid) eine neue Alge bilden kann, was beweist, dass der Zellkern die Entwicklung steuert. Ähnlich ergaben Experimente mit Krallenfröschen, bei denen Zellkerne aus Hautzellen in entkernte Eizellen übertragen wurden, Albino-Frösche – dies zeigt, dass der Zellkern die Erbinformation für Merkmale wie Hautfarbe enthält.
@@ -176,7 +179,7 @@ Der Phänotyp, also das äußere Erscheinungsbild eines Lebewesens wie Haarfarbe
 
 ---
 layout: image-right
-image: /public/pq.jpg
+image: https://pbs.twimg.com/media/FuP3ALYXsAAbj2A?format=jpg
 transition: slide-up
 ---
 
