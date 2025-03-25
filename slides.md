@@ -100,7 +100,7 @@ Die Mitose läuft in vier Phasen ab: In der Prophase verkürzen sich die Chromos
 
 ---
 layout: image-right
-image: /public/intermenophase.jpg
+image: public/intermenophase.jpg
 transition: slide-up
 ---
 
