@@ -141,7 +141,7 @@ Amöben vermehren sich ungeschlechtlich: Sobald sie eine bestimmte Größe errei
 
 ---
 layout: image-right
-image: /public/frosch.jpg
+image: public/frosch.jpg
 transition: slide-up
 ---
 
