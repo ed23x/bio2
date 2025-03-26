@@ -270,3 +270,65 @@ transition: slide-up
         allowfullscreen
     ></iframe>
 </div>
+
+
+---
+layout: two-cols
+transition: slide-up
+---
+
+# Genetik-Quiz
+
+<div class="pr-6">
+
+### Fragen:
+
+**1.** Wie viele Chromosomen hat eine menschliche Körperzelle?
+
+**2.** Was ist Mitose?
+
+**3.** Welches Chromosomenpaar bestimmt das Geschlecht?
+
+**4.** Was bezeichnet man als Phänotyp?
+
+**5.** Welcher Teil des Chromosoms ist der kurze Arm?
+
+</div>
+
+::right::
+
+<div class="pl-6">
+
+### Antworten:
+
+<v-click>
+
+**1.** 46 Chromosomen (23 Paare)
+
+</v-click>
+
+<v-click>
+
+**2.** Eine Form der Zellteilung, bei der zwei genetisch identische Tochterzellen entstehen
+
+</v-click>
+
+<v-click>
+
+**3.** Das 23. Chromosomenpaar (XX bei Frauen, XY bei Männern)
+
+</v-click>
+
+<v-click>
+
+**4.** Das äußere Erscheinungsbild bzw. die sichtbaren Merkmale eines Organismus
+
+</v-click>
+
+<v-click>
+
+**5.** Der p-Arm ("petit" = französisch für klein)
+
+</v-click>
+
+</div>
